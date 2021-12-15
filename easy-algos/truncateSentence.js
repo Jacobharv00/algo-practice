@@ -6,6 +6,7 @@
 
 const truncateSentence = ( s, k ) => {
 
+  // [...s] => do the same as .split(' ')?
   let wordsArr = s.split( ' ' )
 
   let truncArr = []
