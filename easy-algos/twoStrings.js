@@ -14,7 +14,6 @@ function twoStrings ( s1, s2 ) {
 }
 
 // Given two strings, determine if they share a common substring. A substring may be as small as one character.
-
 // For each pair of strings return either 'YES' or 'NO'
 
 //  String1    String2
