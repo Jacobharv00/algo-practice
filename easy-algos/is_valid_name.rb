@@ -1,6 +1,6 @@
 # A name is valid is if satisfies all of the following:
 # - contains at least a first name and last name, separated by spaces
-# - each part of the name should be capitalized
+# - each part of the name should be capitalized (First Character of name)
 
 def is_valid_name(str)
   names_arr = str.split(" ")
