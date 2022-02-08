@@ -14,3 +14,28 @@ const climbStairs = ( n ) => {
 
   return firstSum + secondSum
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
