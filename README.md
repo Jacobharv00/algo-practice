@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to Algorithm & Problem Sets 👋</h1>
+<h1 align="center">👋 Welcome to My Algorithm & Problem Sets Repo 👋</h1>
 
 <p align="center" border-radius='30px'>
   <img border-radius='30px' src="https://media.giphy.com/media/ezjd4NlY4w3io/giphy.gif" alt="sorting algorithm chart" />
